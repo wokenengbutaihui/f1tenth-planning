@@ -1,1 +1,1 @@
-# f1tenth-planning
+F1Tenth motion planning project (WIP)
